@@ -1,6 +1,6 @@
 # Bulk PDF Downloader
 
-Download source: [Balitbang Perhubungan](https://balitbanghub.dephub.go.id/kategori/materi-kegiatan)
+Download source: [Litbang Perhubungan](https://balitbanghub.dephub.go.id/kategori/materi-kegiatan)
 
 Update: March, 30th 2022
 
